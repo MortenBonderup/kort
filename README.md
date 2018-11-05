@@ -4,7 +4,7 @@ Eksempel på et simpelt online kort med pin og tilhørende pop-up med forklaring
 
 ## Kom i gang
 
-Du indstiller kortet i filen [/js/kort_indstillinger.js](kort_indstillinger.js). Som standard, er kortet sat op til at Odense, Danmark er centrum og med en enkelt pin med tilhørende forklaring i Aalborg, Danmark.
+Du indstiller kortet i filen [/js/kort_indstillinger.js](js/kort_indstillinger.js). Som standard, er kortet sat op til at Odense, Danmark er centrum og med en enkelt pin med tilhørende forklaring i Aalborg, Danmark.
 
 ## Contributing
 
