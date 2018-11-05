@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="da">
+
+    <head>
+        <meta charset="utf-8">
+        <title>Eksempel på kort | mortenbonderup.eu</title>
+
+        <!-- OpenStreetMap version 5.2.0 start-->
+        <link rel="stylesheet" href="css/ol.css">
+        <script src="build/ol.js"></script>
+        <!-- OpenStreetMap version 5.2.0 start-->
+
+        <!-- Style af Popup ved tryk på pin start--> 
+        <link rel="stylesheet" href="css/kort.css">
+        <!-- Style af Popup ved tryk på pin slut--> 
+
+    </head>
+
+    <body>
+
+        <!----- Kort HTML start ----->
+        <div id="map" class="map"></div>
+
+        <div id="popup" class="ol-popup">
+            <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+            <div id="popup-content"></div>
+        </div>
+        <!----- Kort HTML slut ----->
+
+        <!------------- Kort JavaScript start ------------------->
+        <!----- Javascript skal indlæses i denne rækkefølge ----->
+        <script src="js/kort.js"></script>
+        <script src="js/kort_indstillinger.js"></script>
+        <!------------- Kort JavaScript start ------------------->
+    </body>
+
+</html>
