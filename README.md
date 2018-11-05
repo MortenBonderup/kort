@@ -1,6 +1,10 @@
 # Kort
 
-Eksempel på et simpelt online kort med pin og tilhørende pop-up med forklaringstekst. 
+Eksempel på et simpelt online kort med pin og tilhørende pop-up med forklaringstekst. Der tilbydes en nem måde at tilføje nye steder med tilhørende forklaring.
+
+
+![alt Kort eksempel](image/eksempel.png)
+
 
 ## Kom i gang
 
