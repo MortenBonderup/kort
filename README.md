@@ -16,6 +16,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-* This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
+
 Baseret på https://openlayers.org/ under BSD license
+
 Kort pin fra https://feathericons.com/ under MIT license.
