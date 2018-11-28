@@ -24,6 +24,3 @@ start_niveau_zoom = 4;
 // Format for pin med forklaring er ("Overskrift","Brødtekst", longitude, latitude)
 stedliste[stedliste.length] = new sted("Aalborg", "Aalborg er med sine 114194 indbyggere Danmarks fjerde største by.", 9.9193939, 57.0482206);
 
-// -- Du skal ikke ændre linjen herunder --
-document.addEventListener("load", init());
-// ----------------------------------------

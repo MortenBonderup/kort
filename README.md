@@ -10,18 +10,18 @@ Eksempel på et simpelt online kort med pin og tilhørende pop-up med forklaring
 
 Du indstiller kortet i filen [/js/kort_indstillinger.js](js/kort_indstillinger.js). Som standard, er kortet sat op til at Odense, Danmark er centrum og med en enkelt pin med tilhørende forklaring i Aalborg, Danmark.
 
-## Contributing
+## Bidragsydere
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests. 
+Læs venligst [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for detaljer om vores adfærdskodeks og processen til at indsende pull-anmodninger.
 
 ## Forfatter
 
 * **Morten Bonderup** 
 
-## License
+## Licens
 
-This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
+Dette projekt er licenseret under BSD-licensen - se filen [LICENSE.md] (LICENSE.md) for detaljer
 
 Baseret på https://openlayers.org/ under BSD license
 
-Kort pin fra https://feathericons.com/ under MIT license.
+Kort pin fra https://material.io/ under Apache License Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html).

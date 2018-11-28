@@ -33,10 +33,9 @@ var kortcentrum_latitude = 0;
 var kortbredde = "";
 var korthoejde = "";
 
-
 /* Modul implementering */
 
-function init() {
+document.addEventListener("DOMContentLoaded", function() {
 
     /**
      * 
@@ -94,7 +93,7 @@ function init() {
             anchor: [0.5, 1],
             anchorXUnits: 'fraction',
             anchorYUnits: 'fraction',
-            src: './map-pin.svg'
+            src: './kort-pin.png'
         }))
     });
 
@@ -131,5 +130,5 @@ function init() {
         });
     });
 
-};
+});
 
