@@ -20,8 +20,8 @@ Læs venligst [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957
 
 ## Licens
 
-Dette projekt er licenseret under BSD-licensen - se filen [LICENSE.md] (LICENSE.md) for detaljer
+Dette projekt er licenseret under BSD-licensen - se filen [LICENSE.md](LICENSE.md) for detaljer.
 
-Baseret på https://openlayers.org/ under BSD license
+Baseret på https://openlayers.org/ under BSD-2 license https://tldrlegal.com/license/bsd-2-clause-license-(freebsd).
 
 Kort pin fra https://material.io/ under Apache License Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0.html).
